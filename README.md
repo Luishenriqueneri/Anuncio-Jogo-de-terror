@@ -1,7 +1,7 @@
 # Anúncio Jogo de Terror
 Um projeto desenvolvido no evento: "semana do zero ao programador contratado" ministrado pela RocketSeat.
 
-<img src="/src/imagens/endless nightmare.gif" alt="GIF do projeto">
+<img src="Imagens/endless nightmare.gif" alt="GIF do projeto">
 
 ## Tecnologias utilizadas
 
